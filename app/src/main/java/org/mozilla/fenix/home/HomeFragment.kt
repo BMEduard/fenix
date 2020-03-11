@@ -100,6 +100,7 @@ class HomeFragment : Fragment() {
                 toolbarLayout
             } else {
                 null
+
             }
         }
 
